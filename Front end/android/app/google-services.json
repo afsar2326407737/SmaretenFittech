@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044474172586",
+    "project_id": "calci-d4cb2",
+    "storage_bucket": "calci-d4cb2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044474172586:android:f5b9fad57b62976d896cd3",
+        "android_client_info": {
+          "package_name": "com.example.gymassistanat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9sfTD6tLFGYzf-dharUb21jMtiuE1xVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
